@@ -1,3 +1,5 @@
+https://vikingcube.com/vikingcube/vikingcube-midi/
+
 # VikingCube Midi PCB Repository
 This repository has the KiCad files for making the PCBs for the VikingCube Midi.
 
