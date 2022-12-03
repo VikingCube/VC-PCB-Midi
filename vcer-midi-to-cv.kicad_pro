@@ -55,7 +55,15 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_over_copper|-15989132|71484058|2c7f194e-4495-4fdc-8feb-e71a81fd860a|fc135416-7349-4874-95bb-d167e0200918",
+        "silk_over_copper|-16005248|81922451|2c7f194e-4495-4fdc-8feb-e71a81fd860a|c6a385bd-2cfe-494d-8be2-f1e609af4c68",
+        "silk_over_copper|-30461743|84123817|2c7f194e-4495-4fdc-8feb-e71a81fd860a|b3b1ccd4-a657-4a3d-8691-5506574dc6a0",
+        "silk_over_copper|-32106229|70707050|2c7f194e-4495-4fdc-8feb-e71a81fd860a|fab30cbb-bd3d-4609-a035-5c90d487efa9",
+        "silk_over_copper|-42412188|69508549|2c7f194e-4495-4fdc-8feb-e71a81fd860a|b20c5260-ee66-4d51-8f35-41f1a6f43960",
+        "silk_over_copper|-42854215|57824814|2c7f194e-4495-4fdc-8feb-e71a81fd860a|e51833b7-6d0f-4ff5-9a3f-09b6f3d09390",
+        "silk_over_copper|-44411750|82915731|2c7f194e-4495-4fdc-8feb-e71a81fd860a|3f5711a9-6942-47d5-a776-bcde1cb23334"
+      ],
       "meta": {
         "version": 2
       },
@@ -350,7 +358,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "vcer-midi-to-cv-v3.kicad_pro",
+    "filename": "vcer-midi-to-cv.kicad_pro",
     "version": 1
   },
   "net_settings": {
